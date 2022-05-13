@@ -118,8 +118,8 @@ if __name__=='__main__':
             option = int(input('Пожалуйста, введите выбор: '))
         except:
             print('Wrong Input...')
-        #Check what choice was entered and act accordingly
-        if option == 1:
+
+              if option == 1:
            option1()
         elif option == 2:
             option2()
