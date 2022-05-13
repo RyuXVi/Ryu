@@ -1,2 +1,4 @@
 # Ryu
-Random CMD Code with ASCII Art or smth
+Random CMD .exe with ASCII Art or smth
+
+menu
