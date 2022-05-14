@@ -1,4 +1,4 @@
 # Ryu
-Just some ASCII Art 
+Just a menu with some text and ASCII Art T_T
 
-menu
+
